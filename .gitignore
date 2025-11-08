@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+env/
+__pycache__/
+
+# Data files
+data/
+*.csv
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
